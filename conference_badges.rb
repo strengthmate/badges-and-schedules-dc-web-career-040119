@@ -29,3 +29,7 @@ def printer(attendees)
     puts assignment
   end
 end
+
+# Need to ask about what exactly the printer method is doing. Copied it from solution
+
+
